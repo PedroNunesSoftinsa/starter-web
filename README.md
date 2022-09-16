@@ -17,4 +17,4 @@ this is about dplying this bitch
 please fork this repository and then issue pull requests for review.
 
 ## Copyright
-2022 Git.Training
+2022 Git.Training. all rights reserved
