@@ -13,3 +13,6 @@ Sample website with plenty of files for demos
 this is about dplying this bitch
 
 ## How to Contribute
+
+## Copyright
+2022 Git.Training
