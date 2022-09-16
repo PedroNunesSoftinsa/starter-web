@@ -13,6 +13,7 @@ Sample website with plenty of files for demos
 this is about dplying this bitch
 
 ## How to Contribute
+please fork this repository and then issue pull requests for review.
 
 ## Copyright
 2022 Git.Training
